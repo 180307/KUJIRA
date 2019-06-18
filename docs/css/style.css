@@ -4,7 +4,7 @@
 body {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
-    background-color: #DFD6D8;
+    background-color: #F6EFF1;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -71,6 +71,10 @@ img {
 }
 #nav li a:hover {
     color: #aca7bb;
+    text-decoration: none;
+}
+#nav_spe li a:hover {
+    color: #CD8691;
     text-decoration: none;
 }
 #nav li a:active {
